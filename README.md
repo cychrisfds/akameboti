@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/cychrisfds/banners/blob/main/Download%20imagens%20Akame%20Ga%20Matar%2C%20Akame%2C%204k%2C%20Mang%C3%A1%20japon%C3%AAs%2C%20menina%20com%20espada%20besthqwallpapers_com.png" width="380" height="280"/>
+<img src="https://github.com/cychrisfds/banners/blob/main/Download%20imagens%20Akame%20Ga%20Matar%2C%20Akame%2C%204k%2C%20Mang%C3%A1%20japon%C3%AAs%2C%20menina%20com%20espada%20besthqwallpapers_com.png" width="380" height="300"/>
 </p>
 <p align="center">
 <a href="#"><img title="akame-bot" src="https://img.shields.io/badge/akame-bot-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
