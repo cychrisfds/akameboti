@@ -381,6 +381,11 @@ async function starts() {
                                         buffer = await getBuffer(anu.result)
                                         client.sendMessage(from, buffer, image, {quoted: mek})
 					break
+					case 'cafetao':
+					memein = await kagApi.memeindo()
+					buffer = await getBuffer(`https://github.com/cychrisfds/banners/blob/main/Shigeo%20Kageyama.jpg`)
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: '*CAFETAO*: CYchris\n *CONTATO*: wa.me//5581996207906\n *INSTA*: https://www.instagram.com/cychris_fds.trash '})
+					break
 			        case 'loli':
                                         gatauda = body.slice(6)
                                         if (!isUser) return reply(mess.only.daftarB)
