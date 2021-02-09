@@ -22,9 +22,7 @@
 > git clone https://github.com/cychrisfds/akame-bott
 ```
 
-## Install the dependencies:
-Before running the below command, make sure you're in the project directory that
-you've just cloned!!
+##pra poder baixar tudo
 
 ```bash
 > cd akame-bott
