@@ -16,24 +16,24 @@
 > git clone https://github.com/cychrisfds/akame-bott
 ```
 
-##pra poder baixar tudo
+# pra poder baixar tudo
 
 ```bash
 > cd akame-bott
 > bash install.sh
 ```
 
-### dar inicio
+# dar inicio
 ```bash
 > npm start
 ```
 
-### info
+# info
 ```
 prefix = !
 ```
 
-## Features
+# Features
 
 | Sticker Creator |                Feature           |
 | :-----------: | :--------------------------------: |
