@@ -10,7 +10,7 @@
 
 </p>
 
-## clonar o projeto
+# clonar o projeto
 
 ```bash
 > git clone https://github.com/cychrisfds/akame-bott
