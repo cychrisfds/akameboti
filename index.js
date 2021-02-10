@@ -115,18 +115,18 @@ async function starts() {
 			const isCmd = body.startsWith(prefix)
 
 			mess = {
-				wait: '[⌛]espera poha',
-				success: '[✔️]sucesso krl',
+				wait: '[⌛]espera poha😠👍',
+				success: '[✔️]sucesso krl😍',
 				error: {
-					stick: '[❌]ixi nao deu pra fazer a figu',
-					Iv: '[❌]link invalido pae'
+					stick: '[❌]ixi nao deu pra fazer a figu🙄🤙',
+					Iv: '[❌]link invalido pae🙄🤙'
 				},
 				only: {
-					group: '❌ Perintah ini hanya bisa di gunakan dalam group! ❌',
-					ownerG: '❌ Perintah ini hanya bisa di gunakan oleh owner group! ❌',
-					ownerB: '❌ Perintah ini hanya bisa di gunakan oleh owner bot! ❌',
-					admin: '❌ Perintah ini hanya bisa di gunakan oleh admin group! ❌',
-					Badmin: '❌ Perintah ini hanya bisa di gunakan ketika bot menjadi admin! ❌'
+					group: '[❌] sai do meu PV arrombado esse comando e pra grupo🙄🤙',
+					ownerG: '[❌] sai poha esse comando e pro criador do grupo🙄😠😠',
+					ownerB: '[❌] Este comando só pode ser feito pelo cafetão poha vaza😎🤙',
+					admin: '[❌]sai MEMBRO COMUN CASETA🤬😡 só arma pode usar esse comando😠🙄',
+					Badmin: '[❌] da adm pro bot krl 😭😭
 				}
 			}
 
