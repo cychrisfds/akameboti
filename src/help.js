@@ -1,15 +1,14 @@
 const help = (prefix) => {
 	return `
 
-       AKAME-BOT
+      /🥀¯\_✨AKAME-BOT✨_/¯🥀\
 
 *INFO📜✨🥀*
    Prefix: 「  ${prefix}  」
-   cafetao : CYchris🤬🤙
-   insta : https://www.instagram.com/cychris_fds.trash
-   Zapzap : wa.me//5581996207906
-   github : https://github.com/cychrisfds/akame-bott
-
+   🥀cafetao : CYchris🤬👍🥀
+   📷insta : https://www.instagram.com/cychris_fds.trash
+   🪀Zapzap : wa.me//5581996207906
+   ⚡Verçao : TESTE FALTA COISA AINDA POHA😠
 
 >*🥀✨COMANDO DE STICKERS✨🥀*<
 
@@ -24,113 +23,107 @@ oq faz : converter adesivo em imagem✨🥀
 
 🥀✨ *${prefix}tsticker* or *${prefix}tstiker*
 oq faz : converter texto em adesivo✨🥀
-Fazer : *${prefix}tsticker* 
+Fazer : *${prefix}tsticker* sou gostoso 
 
->*Meme Commands* <
+>*🥀✨MEMES😂🤣✨🥀* <
 
-command : *${prefix}meme*
-desc : random meme images [english]
-usage : just send the command\n
+🥀✨ *${prefix}meme*
+oq faz : manda memes americanos✨🥀
 
-> *Others Commands* <
 
-command :  *${prefix}play*
-desc : play songs
+> *🥀✨OUTROS COMANDOS✨🥀* <
+
+🥀✨ *${prefix}play*
+oq faz : toca qualquer musica✨🥀 
 usage : *${prefix}play lo que ciento*
 
+🥀✨ *${prefix}tp*
+oq faz : Text / Logo maker from textpro.me✨🥀
+modo de usar: *${prefix}tp [no] [text]*\nexample : *${prefix}tp 1 YourText*
+aviso : *${prefix}tp list* (para mostrar todo o tema)\n
 
-command : *${prefix}tp*
-desc : Text / Logo maker from textpro.me
-usage : *${prefix}tp [no] [text]*\nexample : *${prefix}tp 1 YourText*
-note : *${prefix}tp list* ( for show all theme )\n
+🥀✨ *${prefix}ep*
+oq faz : Criador de texto/logotipo de ephoto360.com
+modo de usar : *${prefix}ep [no] [text]*\nexample : *${prefix}ep 1 seu texto*
+aviso : *${prefix}ep list* (para mostrar todo o tema)\n
 
-command : *${prefix}ep*
-desc : Text / Logo maker from ephoto360.com
-usage : *${prefix}ep [no] [text]*\nexample : *${prefix}ep 1 YourText*
-note : *${prefix}ep list* ( for show all theme )\n
+🥀✨ *${prefix}tahta*
+sla : Tesouro.....
+modo de usar : *${prefix}tahta [text]*\nexample : *${prefix}tahta seutexto*\n
 
-command : *${prefix}tahta*
-desc : Harta Tahta .....
-usage : *${prefix}tahta [text]*\nexample : *${prefix}tahta YourText*\n
+🥀✨ *${prefix}gtts*
+oq faz : manda um audio do que vc escreveu✨🥀
+modo de usar : *${prefix}gtts [cc] [text]*\nexample : *${prefix}gtts ja On2-chan*\n
 
-command : *${prefix}gtts*
-desc : convert text to speech/audio
-usage : *${prefix}gtts [cc] [text]*\nexample : *${prefix}gtts ja On2-chan*\n
+🥀✨ *${prefix}randomhentai*
+oq faz : manda hentai✨🥀
 
-command :*${prefix}randomhentai*
-desc : random hentai images
-usage : just send the command\n
+🥀✨ *${prefix}loli*
+oq faz : manda lolis✨🥀
 
-command : *${prefix}loli*
-desc : random loli images
-usage : just send the command\n
+🥀✨ *${prefix}nsfwloli*
+oq faz : porno de loli✨🥀
+aviso : OFF
 
-command : *${prefix}nsfwloli*
-desc : random nsfw loli images
-usage : just send the command\n
+🥀✨ *${prefix}url2img*
+oq faz : tirar screenshots da web✨🥀
+modo de usar : *${prefix}url2img [tipe] [url]*\n
 
-command : *${prefix}url2img*
-desc : take web screenshots
-usage : *${prefix}url2img [tipe] [url]*\n
+🥀✨ *${prefix}simi*
+oq faz : sua mensagem será respondida por simi✨🥀
+modo de usar : *${prefix}simi yourmessage*\n
 
-command : *${prefix}simi*
-desc : your message will be replied to by simi
-usage : *${prefix}simi yourmessage*\n
+🥀✨ *${prefix}ocr*
+oq faz : pegue o texto na foto✨🥀
+modo de usar : responder imagem ou enviar imagem com legenda\n
 
-command : *${prefix}ocr*
-desc : take the text in the picture
-usage : reply image, or send image with caption\n
+🥀✨ *${prefix}wait*
+oq faz : pesquisar anime com imagem [What Anime Is This/That]✨🥀
+modo de usar : responder imagem ou enviar imagem com legenda\n
 
-command : *${prefix}wait*
-desc : search anime with image [ What Anime Is This/That ]
-usage : reply image, or send image with caption\n
+🥀✨ *${prefix}setprefix*
+oq faz : substituir prefixo✨🥀
+modo de usar : *${prefix}setprefix [text|optional]*\nexample : *${prefix}setprefix ?*
+aviso : Este comando só pode ser usado pelo cafetão da bot🤬✨🥀\n
 
-command : *${prefix}setprefix*
-desc : replace prefix
-usage : *${prefix}setprefix [text|optional]*\nexample : *${prefix}setprefix ?*
-note : This command can only be used by the bot owner\n
+> *🥀✨MENU DE GRUPO✨🥀* <
 
-> *Group Comands* <
+🥀✨ *${prefix}add*
+oq faz : adicionar membro ao grupo✨🥀
+modo de usar : *${prefix}add 5581xxxxxxxx*\n
+aviso : tem que dar adm pra akame para fazer esse comando\n
 
-command : *${prefix}add*
-desc : add member into group
-usage : *${prefix}add 62813xxxxx*\n
-note : can only be used when the bot becomes admin, and the one who sends the command is admin!\n
+🥀✨ *${prefix}kick*
+oq faz : remover ghost✨🥀
+modo de usar : *${prefix}kick @marcaghost*\n
+aviso : tem que dar adm pra akame para fazer esse comando\n
 
-command : *${prefix}kick*
-desc : kick members from group
-usage : *${prefix}kick @tagmember*\n
-note : can only be used when the bot becomes admin, and the one who sends the command is admin!\n
+🥀✨ *${prefix}promote*
+oq faz : da adm pra membros comuns✨🥀 
+modo de usar : *${prefix}promote @marcamembro*\n
+aviso : tem que dar adm pra akame para fazer esse comando\n
 
-command : *${prefix}promote*
-desc : make the group member as group admin
-usage : *${prefix}promote @tagmember*\n
-note : can only be used when the bot becomes admin, and the one who sends the command is admin!\n
+🥀✨ *${prefix}demote*
+oq faz : torna adm em membro comum✨🥀
+modo de usar : *${prefix}demote @marcaadm*\n
+aviso : tem que dar adm pra akame para fazer esse comando\n
 
-command : *${prefix}demote*
-desc : make the group admin as group member
-usage : *${prefix}demote @tagmember*\n
-note : can only be used when the bot becomes admin, and the one who sends the command is admin!\n
+🥀✨ *${prefix}linkgroup*
+oq faz : da o link do grupo✨🥀
+aviso : tem que dar adm pra akame para fazer esse comando\n
 
-command : *${prefix}linkgroup*
-desc : take the group link
-usage : just send the command
-note : can only be used when the bot becomes admin, and the one who sends the command is admin!\n
+🥀✨ *${prefix}leave*
+oq faz : o bot sai do grupo😔👍✨🥀
+aviso : so adm eo cafetão da bot pode usar esse cmd\n
 
-command : *${prefix}leave*
-desc : Make bot leave the group
-usage : just send the command
-note : Can only be used by Group admins and Bot owner\n
+🥀✨ *${prefix}tagall*
+oq faz : acorda os ghost arrombado 😡🤬👍
+aviso : so adm usa essa poha vaza membro comum 🤥🤙\n
 
-command : *${prefix}tagall*
-desc : tags all group members including admins too
-usage : just send the command
-note : This command can be used if you are a group admin\n
-
-command : *${prefix}simih*
-desc : activate simi mode in the group
-usage : *${prefix}simih 1* to activate simi mode and *${prefix}simih 0* to deactivate simi mode
-note : This command can be used if you are a group admin\n`
+🥀✨ *${prefix}simih*
+oq faz : ativa um bico chato pra krl 🙄🙄🤙
+modo de usar: *${prefix}simih 1* para ativar o modo simi *${prefix}simih 0* para desativar o modo simi
+aviso : so adm usa esse comando 😍💕\n`
 
 
 }
