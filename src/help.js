@@ -3,7 +3,7 @@ const help = (prefix) => {
 
        AKAME-BOT
 
-*INFO*
+*INFO📜✨🥀*
    Prefix: 「  ${prefix}  」
    cafetao : CYchris🤬🤙
    insta : https://www.instagram.com/cychris_fds.trash
@@ -11,23 +11,20 @@ const help = (prefix) => {
    github : https://github.com/cychrisfds/akame-bott
 
 
-> *comandos de stickers* <
+>*🥀✨COMANDO DE STICKERS✨🥀*<
 
-command : *${prefix}sticker* or *${prefix}stiker*
-desc : convert image/gif/video to sticker
-usage : reply image/gif/video, or send image/gif/video with caption\n
+🥀✨ *${prefix}sticker* or *${prefix}stiker*
+oq faz : figurinhas normal/animada✨🥀
 
-command : *${prefix}sticker nobg* or *${prefix}stiker nobg*
-desc : convert image to sticker while removing the background
-usage : reply image, or send image with caption\n
+🥀✨ *${prefix}sticker nobg* or *${prefix}stiker nobg*
+oq faz : converter imagem em adesivo removendo o fundo✨🥀
 
-command : *${prefix}toimg*
-desc : convert sticker to image
-usage : reply sticker\n
+🥀✨ *${prefix}toimg*
+oq faz : converter adesivo em imagem✨🥀
 
-command : *${prefix}tsticker* or *${prefix}tstiker*
-desc : convert text to sticker
-usage : *${prefix}tsticker text in here*\n
+🥀✨ *${prefix}tsticker* or *${prefix}tstiker*
+oq faz : converter texto em adesivo✨🥀
+Fazer : *${prefix}tsticker* 
 
 >*Meme Commands* <
 
