@@ -1,14 +1,14 @@
 const help = (prefix) => {
-	return `
+	return ` /🥀¯\_✨AKAME-BOT✨_/¯🥀\
 
-      /🥀¯\_✨AKAME-BOT✨_/¯🥀\
+        *INFO📜✨🥀*
 
-*INFO📜✨🥀*
    Prefix: 「  ${prefix}  」
+
    🥀cafetao : CYchris🤬👍🥀
    📷insta : https://www.instagram.com/cychris_fds.trash
    🪀Zapzap : wa.me//5581996207906
-   ⚡Verçao : TESTE FALTA COISA AINDA POHA😠
+   ⚡Verçao : 1.0
 
 >*🥀✨COMANDO DE STICKERS✨🥀*<
 
