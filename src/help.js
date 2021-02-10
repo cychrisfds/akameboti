@@ -3,11 +3,12 @@ const help = (prefix) => {
 
        AKAME-BOT
 
-[CAFETAO : CYchris
-
-[VERÇÃO : alpha
-
-[INSTA : https://www.instagram.com/cychris_fds.trash
+*INFO*
+   Prefix: 「  ${prefix}  」
+   cafetao : CYchris🤬🤙
+   insta : https://www.instagram.com/cychris_fds.trash
+   Zapzap : wa.me//5581996207906
+   github : https://github.com/cychrisfds/akame-bott
 
 
 > *comandos de stickers* <
@@ -35,6 +36,11 @@ desc : random meme images [english]
 usage : just send the command\n
 
 > *Others Commands* <
+
+command :  *${prefix}play*
+desc : play songs
+usage : *${prefix}play lo que ciento*
+
 
 command : *${prefix}tp*
 desc : Text / Logo maker from textpro.me
