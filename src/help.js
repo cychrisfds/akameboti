@@ -1,5 +1,17 @@
 const help = (prefix) => {
-	return `> *Sticker Commands* <
+	return `
+
+       AKAME-BOT
+
+[CAFETAO : CYchris
+
+[VERÇÃO : alpha
+
+[INSTA : https://www.instagram.com/cychris_fds.trash
+
+
+> *comandos de stickers* <
+
 command : *${prefix}sticker* or *${prefix}stiker*
 desc : convert image/gif/video to sticker
 usage : reply image/gif/video, or send image/gif/video with caption\n
@@ -12,11 +24,14 @@ usage : reply sticker\n
 command : *${prefix}tsticker* or *${prefix}tstiker*
 desc : convert text to sticker
 usage : *${prefix}tsticker text in here*\n
-> *Meme Commands* <
+
+>*Meme Commands* <
 command : *${prefix}meme*
 desc : random meme images [english]
 usage : just send the command\n
+
 > *Others Commands* <
+
 command : *${prefix}tp*
 desc : Text / Logo maker from textpro.me
 usage : *${prefix}tp [no] [text]*\nexample : *${prefix}tp 1 YourText*
