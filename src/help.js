@@ -43,12 +43,12 @@ modo de usar: *${prefix}tp [no] [text]*\nexample : *${prefix}tp 1 YourText*
 aviso : *${prefix}tp list* (para mostrar todo o tema)\n
 
 🥀✨ *${prefix}ep*
-oq faz : Criador de texto/logotipo de ephoto360.com
+oq faz : Criador de texto/logotipo de ephoto360.com✨🥀
 modo de usar : *${prefix}ep [no] [text]*\nexample : *${prefix}ep 1 seu texto*
 aviso : *${prefix}ep list* (para mostrar todo o tema)\n
 
 🥀✨ *${prefix}tahta*
-sla : Tesouro.....
+sla : Tesouro.....✨🥀
 modo de usar : *${prefix}tahta [text]*\nexample : *${prefix}tahta seutexto*\n
 
 🥀✨ *${prefix}gtts*
@@ -58,7 +58,7 @@ modo de usar : *${prefix}gtts [cc] [text]*\nexample : *${prefix}gtts ja On2-chan
 🥀✨ *${prefix}randomhentai*
 oq faz : manda hentai✨🥀
 
-🥀✨ *${prefix}loli*
+🥀✨ *${prefix}lolizinha*
 oq faz : manda lolis✨🥀
 
 🥀✨ *${prefix}nsfwloli*
