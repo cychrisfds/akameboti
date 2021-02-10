@@ -126,7 +126,7 @@ async function starts() {
 					ownerG: '[❌] sai poha esse comando e pro criador do grupo🙄😠😠',
 					ownerB: '[❌] Este comando só pode ser feito pelo cafetão poha vaza😎🤙',
 					admin: '[❌]sai MEMBRO COMUN CASETA🤬😡 só arma pode usar esse comando😠🙄',
-					Badmin: '[❌] da adm pro bot krl 😭😭
+					Badmin: '[❌] da adm pro bot krl 😭😭'
 				}
 			}
 
