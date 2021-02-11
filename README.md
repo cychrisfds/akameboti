@@ -1,4 +1,4 @@
-# AINDA EM TESTES
+# AKAME-BOT V2.0
 
 <p align="center">
 <img src="https://github.com/cychrisfds/banners/blob/main/Download%20imagens%20Akame%20Ga%20Matar%2C%20Akame%2C%204k%2C%20Mang%C3%A1%20japon%C3%AAs%2C%20menina%20com%20espada%20besthqwallpapers_com.png" width="400" height="250"/>
