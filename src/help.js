@@ -8,7 +8,8 @@ const help = (prefix) => {
    🥀cafetao : CYchris🤬👍🥀
    📷insta : https://www.instagram.com/cychris_fds.trash
    🪀Zapzap : wa.me//5581996207906
-   ⚡Verçao : 1.0
+   ⚡Verçao : 2.0
+   *${prefix}dono* 
 
 >*🥀✨COMANDO DE STICKERS✨🥀*<
 
@@ -35,7 +36,8 @@ oq faz : manda memes americanos✨🥀
 
 🥀✨ *${prefix}play*
 oq faz : toca qualquer musica✨🥀 
-usage : *${prefix}play lo que ciento*
+modo de usar : *${prefix}play lo que ciento*
+aviso : OFF
 
 🥀✨ *${prefix}tp*
 oq faz : Text / Logo maker from textpro.me✨🥀
@@ -57,9 +59,11 @@ modo de usar : *${prefix}gtts [cc] [text]*\nexample : *${prefix}gtts ja On2-chan
 
 🥀✨ *${prefix}randomhentai*
 oq faz : manda hentai✨🥀
+aviso : OFF
 
 🥀✨ *${prefix}lolizinha*
 oq faz : manda lolis✨🥀
+aviso : OFF
 
 🥀✨ *${prefix}nsfwloli*
 oq faz : porno de loli✨🥀
