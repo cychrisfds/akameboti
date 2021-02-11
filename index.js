@@ -381,7 +381,7 @@ async function starts() {
                                         buffer = await getBuffer(anu.result)
                                         client.sendMessage(from, buffer, image, {quoted: mek})
                                         break
-					case 'dono':
+					case 'criador':
           memein = await kagApi.memeindo()
           buffer = await getBuffer(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNuZoNFiBYHYXoX7jIhyWAgMr93EnAV4DDgw&usqp=CAU)
           client.sendMessage(from, buffer, image, {quoted: mek, caption: '(*cafetao*: CYchris \n *gostoso*: claro \n *numero*: wa.me//5581996207906 \n amimir😴 )'})
