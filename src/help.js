@@ -9,7 +9,7 @@ const help = (prefix) => {
    📷insta : https://www.instagram.com/cychris_fds.trash
    🪀Zapzap : wa.me//5581996207906
    ⚡Verçao : 2.0
-   *${prefix}dono* 
+   *${prefix}criador* 
 
 >*🥀✨COMANDO DE STICKERS✨🥀*<
 
