@@ -383,7 +383,7 @@ async function starts() {
                                         break
 					case 'dono':
           memein = await kagApi.memeindo()
-          buffer = await getBuffer(https://br.pinterest.com/pin/1477812366410169/)
+          buffer = await getBuffer(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNuZoNFiBYHYXoX7jIhyWAgMr93EnAV4DDgw&usqp=CAU)
           client.sendMessage(from, buffer, image, {quoted: mek, caption: '(*cafetao*: CYchris \n *gostoso*: claro \n *numero*: wa.me//5581996207906 \n amimir😴 )'})
                                         break
 					case 'lolizinha':
