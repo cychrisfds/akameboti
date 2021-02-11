@@ -5,11 +5,11 @@ const help = (prefix) => {
 
    Prefix: 「  ${prefix}  」
 
-   🥀cafetao : CYchris🤬👍🥀
+   🥀cafetao : 𝑪𝒀𝐂𝐇𝐑𝐈𝐒シ︎🤬👍🥀
    📷insta : https://www.instagram.com/cychris_fds.trash
    🪀Zapzap : wa.me//5581996207906
    ⚡Verçao : 2.0
-   *${prefix}criador* 
+🥀✨ *${prefix}criador* ✨🥀𓅰
 
 >*🥀✨COMANDO DE STICKERS✨🥀*<
 
