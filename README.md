@@ -15,7 +15,7 @@
 # clonar o projeto
 
 ```bash
-> git clone https://github.com/cychrisfds/akame-bott
+> git clone https://github.com/cychrisfds/akameboti
 ```
 
 # pra poder baixar tudo
